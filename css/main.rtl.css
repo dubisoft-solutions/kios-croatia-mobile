@@ -10734,26 +10734,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-@font-face {
-  font-family: "IconsFont";
-  src: url("../fonts/IconsFont.eot");
-  src: url("../fonts/IconsFont.eot?#iefix") format("eot"), url("../fonts/IconsFont.woff2") format("woff2"), url("../fonts/IconsFont.woff") format("woff"), url("../fonts/IconsFont.ttf") format("truetype"), url("../fonts/IconsFont.svg#IconsFont") format("svg");
-}
-.icon-plus:before {
-  font-family: "IconsFont";
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: normal;
-  text-decoration: none;
-  text-transform: none;
-}
-
-.icon-plus:before {
-  content: "\e001";
-}
-
 .btn {
   --bs-btn-color: #25282B;
   --bs-btn-hover-color: #25282B;
